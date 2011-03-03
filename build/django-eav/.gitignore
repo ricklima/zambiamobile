@@ -1,0 +1,7 @@
+*.pyc
+~*
+*.orig
+*.db
+*.sqlite*
+_build
+build
